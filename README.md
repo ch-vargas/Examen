@@ -6,3 +6,5 @@ pantallas a tomar 1.- pantalla donde ya tienen el repositorio. 2.- pantalla de l
 
 
 
+lopes lopes monserrat 
+perez morales jonhatan
